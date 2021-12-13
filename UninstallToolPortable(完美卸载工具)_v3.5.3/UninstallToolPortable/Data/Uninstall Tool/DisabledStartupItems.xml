@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<DisabledStartupItems version="1" architecture="x86">
+	<item name="QQBrowser Updater Task(Core)" type="6" path="&quot;D:\QQBrowser\10.5.3863.400\QQBrowser.exe&quot; -host= -tasks=1"/>
+</DisabledStartupItems>
